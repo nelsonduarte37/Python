@@ -1,0 +1,5 @@
+vlr1=float(input("Digite a primeira nota: "))
+vlr2=float(input("Digite a segunda nota: "))
+vlr3=float(input("Digite a terceira nota: "))
+media=float((vlr1+vlr2+vlr3)/3)
+print("A média das notas foi: ",media)

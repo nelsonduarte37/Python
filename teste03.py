@@ -1,0 +1,5 @@
+vlr1=int(input("Digite o primeiro valor: "))
+vlr2=int(input("Digite o segundo valor: "))
+print(vlr1>vlr2)
+print(vlr2>vlr1)
+print(vlr1==vlr2)

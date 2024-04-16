@@ -1,0 +1,6 @@
+frase=str(input("Digite a frase:"))
+print(("Esta frase tem"),len(frase),("digitos"))
+print("A primeira letra e:",frase[0])
+print("A ultima letra e:",frase[-1])
+print("As 3 primeiras letras sao:",frase[0:3])
+print("As 3 ultimas letras sao:",frase[-3:])

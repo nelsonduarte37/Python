@@ -1,0 +1,5 @@
+print(12>10)and(10>12)
+print(32*(4-2)>69)or(30*(4-2)>69)
+print(true and false or true)
+print((32/4)-3==5)or((26+6)/4==5)
+print( not(false or(14/2*3>=21)))
